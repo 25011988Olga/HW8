@@ -1,0 +1,15 @@
+C:\Users\RonYizly\Desktop\в8\врп8\60.1\bin\Debug\net6.0\60.1.exe
+C:\Users\RonYizly\Desktop\в8\врп8\60.1\bin\Debug\net6.0\60.1.deps.json
+C:\Users\RonYizly\Desktop\в8\врп8\60.1\bin\Debug\net6.0\60.1.runtimeconfig.json
+C:\Users\RonYizly\Desktop\в8\врп8\60.1\bin\Debug\net6.0\60.1.dll
+C:\Users\RonYizly\Desktop\в8\врп8\60.1\bin\Debug\net6.0\60.1.pdb
+C:\Users\RonYizly\Desktop\в8\врп8\60.1\obj\Debug\net6.0\60.1.csproj.AssemblyReference.cache
+C:\Users\RonYizly\Desktop\в8\врп8\60.1\obj\Debug\net6.0\60.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RonYizly\Desktop\в8\врп8\60.1\obj\Debug\net6.0\60.1.AssemblyInfoInputs.cache
+C:\Users\RonYizly\Desktop\в8\врп8\60.1\obj\Debug\net6.0\60.1.AssemblyInfo.cs
+C:\Users\RonYizly\Desktop\в8\врп8\60.1\obj\Debug\net6.0\60.1.csproj.CoreCompileInputs.cache
+C:\Users\RonYizly\Desktop\в8\врп8\60.1\obj\Debug\net6.0\60.1.dll
+C:\Users\RonYizly\Desktop\в8\врп8\60.1\obj\Debug\net6.0\refint\60.1.dll
+C:\Users\RonYizly\Desktop\в8\врп8\60.1\obj\Debug\net6.0\60.1.pdb
+C:\Users\RonYizly\Desktop\в8\врп8\60.1\obj\Debug\net6.0\60.1.genruntimeconfig.cache
+C:\Users\RonYizly\Desktop\в8\врп8\60.1\obj\Debug\net6.0\ref\60.1.dll
